@@ -1,56 +1,49 @@
 # answer
-풀이한 내용을 [이슈](https://github.com/rimo030/type-challenges/issues)로 기록하고 있습니다! 
+풀이한 내용을 [이슈](https://github.com/rimo030/type-challenges/issues)로 기록하고 있습니다!
 
 
+## solved
+- 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<!--challenges-start-->
-<img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/><br>
+<a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
+<a href="[./questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/3" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/4" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/5" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20to%20Object-7aad0c" alt="11・Tuple to Object"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/6" target="_blank"><img src="https://img.shields.io/badge/-14%E3%83%BBFirst%20of%20Array-7aad0c" alt="14・First of Array"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/7" target="_blank"><img src="https://img.shields.io/badge/-18%E3%83%BBLength%20of%20Tuple-7aad0c" alt="18・Length of Tuple"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/8" target="_blank"><img src="https://img.shields.io/badge/-43%E3%83%BBExclude-7aad0c" alt="43・Exclude"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/9" target="_blank"><img src="https://img.shields.io/badge/-189%E3%83%BBAwaited-7aad0c" alt="189・Awaited"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/10" target="_blank"><img src="https://img.shields.io/badge/-268%E3%83%BBIf-7aad0c" alt="268・If"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/11" target="_blank"><img src="https://img.shields.io/badge/-533%E3%83%BBConcat-7aad0c" alt="533・Concat"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/12" target="_blank"><img src="https://img.shields.io/badge/-898%E3%83%BBIncludes-7aad0c" alt="898・Includes"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/13" target="_blank"><img src="https://img.shields.io/badge/-3057%E3%83%BBPush-7aad0c" alt="3057・Push"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/14" target="_blank"><img src="https://img.shields.io/badge/-3060%E3%83%BBUnshift-7aad0c" alt="3060・Unshift"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/15" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/16" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/17" target="_blank"><img src="https://img.shields.io/badge/-16%E3%83%BBPop-d9901a" alt="16・Pop"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/18" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/19" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/20" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/21" target="_blank"><img src="https://img.shields.io/badge/-15%E3%83%BBLast%20of%20Array-d9901a" alt="15・Last of Array"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/22" target="_blank"><img src="https://img.shields.io/badge/-62%E3%83%BBType%20Lookup-d9901a" alt="62・Type Lookup"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/23" target="_blank"><img src="https://img.shields.io/badge/-108%E3%83%BBTrim-d9901a" alt="108・Trim"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/24" target="_blank"><img src="https://img.shields.io/badge/-106%E3%83%BBTrim%20Left-d9901a" alt="106・Trim Left"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/25" target="_blank"><img src="https://img.shields.io/badge/-4803%E3%83%BBTrim%20Right-d9901a" alt="4803・Trim Right"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/26" target="_blank"><img src="https://img.shields.io/badge/-3062%E3%83%BBShift-d9901a" alt="3062・Shift"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/27" target="_blank"><img src="https://img.shields.io/badge/-531%E3%83%BBString%20to%20Union-d9901a" alt="531・String to Union"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/28" target="_blank"><img src="https://img.shields.io/badge/-5310%E3%83%BBJoin-d9901a" alt="5310・Join"/></a>
+<a href="./questions/05117-medium-without/README.md" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
 
-<a href="./questions/00013-warm-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
- <br>
- 
- 
- <br>
- 
- 
- <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/><br>
- 
- 
- <a href="./questions/00004-easy-pick/README.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
- <a href="./questions/00007-easy-readonly/README.md" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/></a>
- <a href="./questions/00011-easy-tuple-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20to%20Object-7aad0c" alt="11・Tuple to Object"/></a>
- <a href="./questions/00014-easy-first/README.md" target="_blank"><img src="https://img.shields.io/badge/-14%E3%83%BBFirst%20of%20Array-7aad0c" alt="14・First of Array"/></a>
- <a href="./questions/00018-easy-tuple-length/README.md" target="_blank"><img src="https://img.shields.io/badge/-18%E3%83%BBLength%20of%20Tuple-7aad0c" alt="18・Length of Tuple"/></a>
- <a href="./questions/00043-easy-exclude/README.md" target="_blank"><img src="https://img.shields.io/badge/-43%E3%83%BBExclude-7aad0c" alt="43・Exclude"/></a>
- <a href="./questions/00189-easy-awaited/README.md" target="_blank"><img src="https://img.shields.io/badge/-189%E3%83%BBAwaited-7aad0c" alt="189・Awaited"/></a>
- <a href="./questions/00268-easy-if/README.md" target="_blank"><img src="https://img.shields.io/badge/-268%E3%83%BBIf-7aad0c" alt="268・If"/></a>
- <a href="./questions/00533-easy-concat/README.md" target="_blank"><img src="https://img.shields.io/badge/-533%E3%83%BBConcat-7aad0c" alt="533・Concat"/></a>
- <a href="./questions/00898-easy-includes/README.md" target="_blank"><img src="https://img.shields.io/badge/-898%E3%83%BBIncludes-7aad0c" alt="898・Includes"/></a>
- <a href="./questions/03057-easy-push/README.md" target="_blank"><img src="https://img.shields.io/badge/-3057%E3%83%BBPush-7aad0c" alt="3057・Push"/></a>
- <a href="./questions/03060-easy-unshift/README.md" target="_blank"><img src="https://img.shields.io/badge/-3060%E3%83%BBUnshift-7aad0c" alt="3060・Unshift"/></a>
- <a href="./questions/03312-easy-parameters/README.md" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
- <br>
- 
- 
- <br>
- 
- 
+
+## yet
+- 뱃지를 누르면 문제로 이동합니다.
+
  <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/><br>
  
- 
- <a href="./questions/00002-medium-return-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
- <a href="./questions/00003-medium-omit/README.md" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
- <a href="./questions/00008-medium-readonly-2/README.md" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
- <a href="./questions/00009-medium-deep-readonly/README.md" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
- <a href="./questions/00010-medium-tuple-to-union/README.md" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
  <a href="./questions/00012-medium-chainable-options/README.md" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
- <a href="./questions/00015-medium-last/README.md" target="_blank"><img src="https://img.shields.io/badge/-15%E3%83%BBLast%20of%20Array-d9901a" alt="15・Last of Array"/></a>
- <a href="./questions/00016-medium-pop/README.md" target="_blank"><img src="https://img.shields.io/badge/-16%E3%83%BBPop-d9901a" alt="16・Pop"/></a>
  <a href="./questions/00020-medium-promise-all/README.md" target="_blank"><img src="https://img.shields.io/badge/-20%E3%83%BBPromise.all-d9901a" alt="20・Promise.all"/></a>
- <a href="./questions/00062-medium-type-lookup/README.md" target="_blank"><img src="https://img.shields.io/badge/-62%E3%83%BBType%20Lookup-d9901a" alt="62・Type Lookup"/></a>
- <a href="./questions/00106-medium-trimleft/README.md" target="_blank"><img src="https://img.shields.io/badge/-106%E3%83%BBTrim%20Left-d9901a" alt="106・Trim Left"/></a>
- <a href="./questions/00108-medium-trim/README.md" target="_blank"><img src="https://img.shields.io/badge/-108%E3%83%BBTrim-d9901a" alt="108・Trim"/></a>
  <a href="./questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
  <a href="./questions/00116-medium-replace/README.md" target="_blank"><img src="https://img.shields.io/badge/-116%E3%83%BBReplace-d9901a" alt="116・Replace"/></a>
  <a href="./questions/00119-medium-replaceall/README.md" target="_blank"><img src="https://img.shields.io/badge/-119%E3%83%BBReplaceAll-d9901a" alt="119・ReplaceAll"/></a>
@@ -60,7 +53,6 @@
  <a href="./questions/00459-medium-flatten/README.md" target="_blank"><img src="https://img.shields.io/badge/-459%E3%83%BBFlatten-d9901a" alt="459・Flatten"/></a>
  <a href="./questions/00527-medium-append-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
  <a href="./questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
- <a href="./questions/00531-medium-string-to-union/README.md" target="_blank"><img src="https://img.shields.io/badge/-531%E3%83%BBString%20to%20Union-d9901a" alt="531・String to Union"/></a>
  <a href="./questions/00599-medium-merge/README.md" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
  <a href="./questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
  <a href="./questions/00645-medium-diff/README.md" target="_blank"><img src="https://img.shields.io/badge/-645%E3%83%BBDiff-d9901a" alt="645・Diff"/></a>
@@ -80,7 +72,6 @@
  <a href="./questions/02793-medium-mutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-2793%E3%83%BBMutable-d9901a" alt="2793・Mutable"/></a>
  <a href="./questions/02852-medium-omitbytype/README.md" target="_blank"><img src="https://img.shields.io/badge/-2852%E3%83%BBOmitByType-d9901a" alt="2852・OmitByType"/></a>
  <a href="./questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
- <a href="./questions/03062-medium-shift/README.md" target="_blank"><img src="https://img.shields.io/badge/-3062%E3%83%BBShift-d9901a" alt="3062・Shift"/></a>
  <a href="./questions/03188-medium-tuple-to-nested-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-3188%E3%83%BBTuple%20to%20Nested%20Object-d9901a" alt="3188・Tuple to Nested Object"/></a>
  <a href="./questions/03192-medium-reverse/README.md" target="_blank"><img src="https://img.shields.io/badge/-3192%E3%83%BBReverse-d9901a" alt="3192・Reverse"/></a>
  <a href="./questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
@@ -95,11 +86,8 @@
  <a href="./questions/04484-medium-istuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-4484%E3%83%BBIsTuple-d9901a" alt="4484・IsTuple"/></a>
  <a href="./questions/04499-medium-chunk/README.md" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
  <a href="./questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a>
- <a href="./questions/04803-medium-trim-right/README.md" target="_blank"><img src="https://img.shields.io/badge/-4803%E3%83%BBTrim%20Right-d9901a" alt="4803・Trim Right"/></a>
- <a href="./questions/05117-medium-without/README.md" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
  <a href="./questions/05140-medium-trunc/README.md" target="_blank"><img src="https://img.shields.io/badge/-5140%E3%83%BBTrunc-d9901a" alt="5140・Trunc"/></a>
  <a href="./questions/05153-medium-indexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5153%E3%83%BBIndexOf-d9901a" alt="5153・IndexOf"/></a>
- <a href="./questions/05310-medium-join/README.md" target="_blank"><img src="https://img.shields.io/badge/-5310%E3%83%BBJoin-d9901a" alt="5310・Join"/></a>
  <a href="./questions/05317-medium-lastindexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
  <a href="./questions/05360-medium-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a>
  <a href="./questions/05821-medium-maptypes/README.md" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a>
