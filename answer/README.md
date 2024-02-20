@@ -34,7 +34,7 @@
 <a href="https://github.com/rimo030/type-challenges/issues/26" target="_blank"><img src="https://img.shields.io/badge/-3062%E3%83%BBShift-d9901a" alt="3062・Shift"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/27" target="_blank"><img src="https://img.shields.io/badge/-531%E3%83%BBString%20to%20Union-d9901a" alt="531・String to Union"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/28" target="_blank"><img src="https://img.shields.io/badge/-5310%E3%83%BBJoin-d9901a" alt="5310・Join"/></a>
-<a href="./questions/05117-medium-without/README.md" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/29" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
 
 
 ## yet
