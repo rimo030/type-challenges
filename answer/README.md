@@ -6,7 +6,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-29-red" alt="29"/><br>
+<img src="https://img.shields.io/badge/Solved-29-red" alt="31"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -37,6 +37,8 @@
 <a href="https://github.com/rimo030/type-challenges/issues/27" target="_blank"><img src="https://img.shields.io/badge/-531%E3%83%BBString%20to%20Union-d9901a" alt="531・String to Union"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/28" target="_blank"><img src="https://img.shields.io/badge/-5310%E3%83%BBJoin-d9901a" alt="5310・Join"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/29" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/30" target="_blank"><img src="https://img.shields.io/badge/-1042%E3%83%BBIsNever-d9901a" alt="1042・IsNever"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/31" target="_blank"><img src="https://img.shields.io/badge/-459%E3%83%BBFlatten-d9901a" alt="459・Flatten"/></a>
 
 
 ## yet
@@ -52,14 +54,12 @@
  <a href="../questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
  <a href="../questions/00296-medium-permutation/README.md" target="_blank"><img src="https://img.shields.io/badge/-296%E3%83%BBPermutation-d9901a" alt="296・Permutation"/></a>
  <a href="../questions/00298-medium-length-of-string/README.md" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
- <a href="../questions/00459-medium-flatten/README.md" target="_blank"><img src="https://img.shields.io/badge/-459%E3%83%BBFlatten-d9901a" alt="459・Flatten"/></a>
  <a href="../questions/00527-medium-append-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
  <a href="../questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
  <a href="../questions/00599-medium-merge/README.md" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
  <a href="../questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
  <a href="../questions/00645-medium-diff/README.md" target="_blank"><img src="https://img.shields.io/badge/-645%E3%83%BBDiff-d9901a" alt="645・Diff"/></a>
  <a href="../questions/00949-medium-anyof/README.md" target="_blank"><img src="https://img.shields.io/badge/-949%E3%83%BBAnyOf-d9901a" alt="949・AnyOf"/></a>
- <a href="../questions/01042-medium-isnever/README.md" target="_blank"><img src="https://img.shields.io/badge/-1042%E3%83%BBIsNever-d9901a" alt="1042・IsNever"/></a>
  <a href="../questions/01097-medium-isunion/README.md" target="_blank"><img src="https://img.shields.io/badge/-1097%E3%83%BBIsUnion-d9901a" alt="1097・IsUnion"/></a>
  <a href="../questions/01130-medium-replacekeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-1130%E3%83%BBReplaceKeys-d9901a" alt="1130・ReplaceKeys"/></a>
  <a href="../questions/01367-medium-remove-index-signature/README.md" target="_blank"><img src="https://img.shields.io/badge/-1367%E3%83%BBRemove%20Index%20Signature-d9901a" alt="1367・Remove Index Signature"/></a>
