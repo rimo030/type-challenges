@@ -6,7 +6,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-29-red" alt="31"/><br>
+<img src="https://img.shields.io/badge/Solved-29-red" alt="34"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -39,6 +39,9 @@
 <a href="https://github.com/rimo030/type-challenges/issues/29" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/30" target="_blank"><img src="https://img.shields.io/badge/-1042%E3%83%BBIsNever-d9901a" alt="1042・IsNever"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/31" target="_blank"><img src="https://img.shields.io/badge/-459%E3%83%BBFlatten-d9901a" alt="459・Flatten"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/32" target="_blank"><img src="https://img.shields.io/badge/-116%E3%83%BBReplace-d9901a" alt="116・Replace"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/33" target="_blank"><img src="https://img.shields.io/badge/-119%E3%83%BBReplaceAll-d9901a" alt="119・ReplaceAll"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/34" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
 
 
 ## yet
@@ -49,14 +52,11 @@
  <a href="../questions/00012-medium-chainable-options/README.md" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
  <a href="../questions/00020-medium-promise-all/README.md" target="_blank"><img src="https://img.shields.io/badge/-20%E3%83%BBPromise.all-d9901a" alt="20・Promise.all"/></a>
  <a href="../questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
- <a href="../questions/00116-medium-replace/README.md" target="_blank"><img src="https://img.shields.io/badge/-116%E3%83%BBReplace-d9901a" alt="116・Replace"/></a>
- <a href="../questions/00119-medium-replaceall/README.md" target="_blank"><img src="https://img.shields.io/badge/-119%E3%83%BBReplaceAll-d9901a" alt="119・ReplaceAll"/></a>
  <a href="../questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
  <a href="../questions/00296-medium-permutation/README.md" target="_blank"><img src="https://img.shields.io/badge/-296%E3%83%BBPermutation-d9901a" alt="296・Permutation"/></a>
  <a href="../questions/00298-medium-length-of-string/README.md" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
  <a href="../questions/00527-medium-append-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
  <a href="../questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
- <a href="../questions/00599-medium-merge/README.md" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
  <a href="../questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
  <a href="../questions/00645-medium-diff/README.md" target="_blank"><img src="https://img.shields.io/badge/-645%E3%83%BBDiff-d9901a" alt="645・Diff"/></a>
  <a href="../questions/00949-medium-anyof/README.md" target="_blank"><img src="https://img.shields.io/badge/-949%E3%83%BBAnyOf-d9901a" alt="949・AnyOf"/></a>
