@@ -6,7 +6,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-29-red" alt="34"/><br>
+<img src="https://img.shields.io/badge/Solved-36-red" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -42,6 +42,8 @@
  <a href="https://github.com/rimo030/type-challenges/issues/32" target="_blank"><img src="https://img.shields.io/badge/-116%E3%83%BBReplace-d9901a" alt="116・Replace"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/33" target="_blank"><img src="https://img.shields.io/badge/-119%E3%83%BBReplaceAll-d9901a" alt="119・ReplaceAll"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/34" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/35" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/36" target="_blank"><img src="https://img.shields.io/badge/-3192%E3%83%BBReverse-d9901a" alt="3192・Reverse"/></a>
 
 
 ## yet
@@ -54,7 +56,6 @@
  <a href="../questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
  <a href="../questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
  <a href="../questions/00296-medium-permutation/README.md" target="_blank"><img src="https://img.shields.io/badge/-296%E3%83%BBPermutation-d9901a" alt="296・Permutation"/></a>
- <a href="../questions/00298-medium-length-of-string/README.md" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
  <a href="../questions/00527-medium-append-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
  <a href="../questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
  <a href="../questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
@@ -75,7 +76,6 @@
  <a href="../questions/02852-medium-omitbytype/README.md" target="_blank"><img src="https://img.shields.io/badge/-2852%E3%83%BBOmitByType-d9901a" alt="2852・OmitByType"/></a>
  <a href="../questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
  <a href="../questions/03188-medium-tuple-to-nested-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-3188%E3%83%BBTuple%20to%20Nested%20Object-d9901a" alt="3188・Tuple to Nested Object"/></a>
- <a href="../questions/03192-medium-reverse/README.md" target="_blank"><img src="https://img.shields.io/badge/-3192%E3%83%BBReverse-d9901a" alt="3192・Reverse"/></a>
  <a href="../questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
  <a href="../questions/03243-medium-flattendepth/README.md" target="_blank"><img src="https://img.shields.io/badge/-3243%E3%83%BBFlattenDepth-d9901a" alt="3243・FlattenDepth"/></a>
  <a href="../questions/03326-medium-bem-style-string/README.md" target="_blank"><img src="https://img.shields.io/badge/-3326%E3%83%BBBEM%20style%20string-d9901a" alt="3326・BEM style string"/></a>
