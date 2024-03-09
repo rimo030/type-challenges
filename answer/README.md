@@ -6,7 +6,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-36-red" alt="solved"/><br>
+<img src="https://img.shields.io/badge/Solved-37-red" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -44,6 +44,7 @@
  <a href="https://github.com/rimo030/type-challenges/issues/34" target="_blank"><img src="https://img.shields.io/badge/-599%E3%83%BBMerge-d9901a" alt="599・Merge"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/35" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/36" target="_blank"><img src="https://img.shields.io/badge/-3192%E3%83%BBReverse-d9901a" alt="3192・Reverse"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/37" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a>
 
 
 ## yet
@@ -117,7 +118,6 @@
  <a href="../questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a>
  <a href="../questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a>
  <a href="../questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
- <a href="../questions/27932-medium-mergeall/README.md" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a>
  <a href="../questions/27958-medium-checkrepeatedtuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-27958%E3%83%BBCheckRepeatedTuple-d9901a" alt="27958・CheckRepeatedTuple"/></a>
  <a href="../questions/28333-medium-public-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-28333%E3%83%BBPublic%20Type-d9901a" alt="28333・Public Type"/></a>
  <a href="../questions/29650-medium-extracttoobject/README.md" target="_blank"><img src="https://img.shields.io/badge/-29650%E3%83%BBExtractToObject-d9901a" alt="29650・ExtractToObject"/></a>
