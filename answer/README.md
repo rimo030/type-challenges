@@ -1,12 +1,14 @@
-# answer
+# Answer
 풀이한 내용을 [이슈](https://github.com/rimo030/type-challenges/issues)로 기록하고 있습니다!
 
+도전하고 있는 문제는 Solved에 추가하되 todo 라벨로 구분합니다.
 
-## solved
+
+## Solved
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-37-red" alt="solved"/><br>
+<img src="https://img.shields.io/badge/Solved-39-red" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -45,9 +47,11 @@
  <a href="https://github.com/rimo030/type-challenges/issues/35" target="_blank"><img src="https://img.shields.io/badge/-298%E3%83%BBLength%20of%20String-d9901a" alt="298・Length of String"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/36" target="_blank"><img src="https://img.shields.io/badge/-3192%E3%83%BBReverse-d9901a" alt="3192・Reverse"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/37" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/38" target="_blank"><img src="https://img.shields.io/badge/-25170%E3%83%BBReplace%20First-d9901a" alt="25170・Replace First"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/39" target="_blank"><img src="https://img.shields.io/badge/-5153%E3%83%BBIndexOf-d9901a" alt="5153・IndexOf"/></a>
 
 
-## yet
+## Yet
 - 뱃지를 누르면 문제로 이동합니다.
 
  <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/><br>
@@ -90,7 +94,6 @@
  <a href="../questions/04499-medium-chunk/README.md" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
  <a href="../questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a>
  <a href="../questions/05140-medium-trunc/README.md" target="_blank"><img src="https://img.shields.io/badge/-5140%E3%83%BBTrunc-d9901a" alt="5140・Trunc"/></a>
- <a href="../questions/05153-medium-indexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5153%E3%83%BBIndexOf-d9901a" alt="5153・IndexOf"/></a>
  <a href="../questions/05317-medium-lastindexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
  <a href="../questions/05360-medium-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a>
  <a href="../questions/05821-medium-maptypes/README.md" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a>
@@ -112,7 +115,6 @@
  <a href="../questions/21104-medium-findall/README.md" target="_blank"><img src="https://img.shields.io/badge/-21104%E3%83%BBFindAll-d9901a" alt="21104・FindAll"/></a>
  <a href="../questions/21106-medium-zu-he-jian-lei-xing-combination-key-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-21106%E3%83%BBCombination%20key%20type-d9901a" alt="21106・Combination key type"/></a>
  <a href="../questions/21220-medium-permutations-of-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-21220%E3%83%BBPermutations%20of%20Tuple-d9901a" alt="21220・Permutations of Tuple"/></a>
- <a href="../questions/25170-medium-replace-first/README.md" target="_blank"><img src="https://img.shields.io/badge/-25170%E3%83%BBReplace%20First-d9901a" alt="25170・Replace First"/></a>
  <a href="../questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a>
  <a href="../questions/26401-medium-json-schema-to-typescript/README.md" target="_blank"><img src="https://img.shields.io/badge/-26401%E3%83%BBJSON%20Schema%20to%20TypeScript-d9901a" alt="26401・JSON Schema to TypeScript"/></a>
  <a href="../questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a>
