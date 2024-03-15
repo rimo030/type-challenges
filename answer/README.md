@@ -8,7 +8,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-39-red" alt="solved"/><br>
+<img src="https://img.shields.io/badge/Solved-42-blue" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -49,6 +49,9 @@
  <a href="https://github.com/rimo030/type-challenges/issues/37" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/38" target="_blank"><img src="https://img.shields.io/badge/-25170%E3%83%BBReplace%20First-d9901a" alt="25170・Replace First"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/39" target="_blank"><img src="https://img.shields.io/badge/-5153%E3%83%BBIndexOf-d9901a" alt="5153・IndexOf"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/40" target="_blank"><img src="https://img.shields.io/badge/-223%E3%83%BBIsAny-de3d37" alt="223・IsAny"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/41" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/42" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
 
 
 ## Yet
@@ -94,8 +97,6 @@
  <a href="../questions/04499-medium-chunk/README.md" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
  <a href="../questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a>
  <a href="../questions/05140-medium-trunc/README.md" target="_blank"><img src="https://img.shields.io/badge/-5140%E3%83%BBTrunc-d9901a" alt="5140・Trunc"/></a>
- <a href="../questions/05317-medium-lastindexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
- <a href="../questions/05360-medium-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a>
  <a href="../questions/05821-medium-maptypes/README.md" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a>
  <a href="../questions/07544-medium-construct-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
  <a href="../questions/08640-medium-number-range/README.md" target="_blank"><img src="https://img.shields.io/badge/-8640%E3%83%BBNumber%20Range-d9901a" alt="8640・Number Range"/></a>
@@ -148,7 +149,6 @@
  <a href="../questions/00114-hard-camelcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-114%E3%83%BBCamelCase-de3d37" alt="114・CamelCase"/></a>
  <a href="../questions/00147-hard-c-printf-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-147%E3%83%BBC--printf%20Parser-de3d37" alt="147・C-printf Parser"/></a>
  <a href="../questions/00213-hard-vue-basic-props/README.md" target="_blank"><img src="https://img.shields.io/badge/-213%E3%83%BBVue%20Basic%20Props-de3d37" alt="213・Vue Basic Props"/></a>
- <a href="../questions/00223-hard-isany/README.md" target="_blank"><img src="https://img.shields.io/badge/-223%E3%83%BBIsAny-de3d37" alt="223・IsAny"/></a>
  <a href="../questions/00270-hard-typed-get/README.md" target="_blank"><img src="https://img.shields.io/badge/-270%E3%83%BBTyped%20Get-de3d37" alt="270・Typed Get"/></a>
  <a href="../questions/00300-hard-string-to-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-300%E3%83%BBString%20to%20Number-de3d37" alt="300・String to Number"/></a>
  <a href="../questions/00399-hard-tuple-filter/README.md" target="_blank"><img src="https://img.shields.io/badge/-399%E3%83%BBTuple%20Filter-de3d37" alt="399・Tuple Filter"/></a>
