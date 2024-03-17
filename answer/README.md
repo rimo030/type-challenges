@@ -52,6 +52,8 @@
  <a href="https://github.com/rimo030/type-challenges/issues/40" target="_blank"><img src="https://img.shields.io/badge/-223%E3%83%BBIsAny-de3d37" alt="223・IsAny"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/41" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/42" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/43" target="_blank"><img src="https://img.shields.io/badge/-2595%E3%83%BBPickByType-d9901a" alt="2595・PickByType"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/44" target="_blank"><img src="https://img.shields.io/badge/-2852%E3%83%BBOmitByType-d9901a" alt="2852・OmitByType"/></a>
 
 
 ## Yet
@@ -75,13 +77,11 @@
  <a href="../questions/01978-medium-percentage-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-1978%E3%83%BBPercentage%20Parser-d9901a" alt="1978・Percentage Parser"/></a>
  <a href="../questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
  <a href="../questions/02257-medium-minusone/README.md" target="_blank"><img src="https://img.shields.io/badge/-2257%E3%83%BBMinusOne-d9901a" alt="2257・MinusOne"/></a>
- <a href="../questions/02595-medium-pickbytype/README.md" target="_blank"><img src="https://img.shields.io/badge/-2595%E3%83%BBPickByType-d9901a" alt="2595・PickByType"/></a>
  <a href="../questions/02688-medium-startswith/README.md" target="_blank"><img src="https://img.shields.io/badge/-2688%E3%83%BBStartsWith-d9901a" alt="2688・StartsWith"/></a>
  <a href="../questions/02693-medium-endswith/README.md" target="_blank"><img src="https://img.shields.io/badge/-2693%E3%83%BBEndsWith-d9901a" alt="2693・EndsWith"/></a>
  <a href="../questions/02757-medium-partialbykeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2757%E3%83%BBPartialByKeys-d9901a" alt="2757・PartialByKeys"/></a>
  <a href="../questions/02759-medium-requiredbykeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2759%E3%83%BBRequiredByKeys-d9901a" alt="2759・RequiredByKeys"/></a>
  <a href="../questions/02793-medium-mutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-2793%E3%83%BBMutable-d9901a" alt="2793・Mutable"/></a>
- <a href="../questions/02852-medium-omitbytype/README.md" target="_blank"><img src="https://img.shields.io/badge/-2852%E3%83%BBOmitByType-d9901a" alt="2852・OmitByType"/></a>
  <a href="../questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
  <a href="../questions/03188-medium-tuple-to-nested-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-3188%E3%83%BBTuple%20to%20Nested%20Object-d9901a" alt="3188・Tuple to Nested Object"/></a>
  <a href="../questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
