@@ -8,7 +8,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-42-blue" alt="solved"/><br>
+<img src="https://img.shields.io/badge/Solved-49-blue" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -54,6 +54,11 @@
  <a href="https://github.com/rimo030/type-challenges/issues/42" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/43" target="_blank"><img src="https://img.shields.io/badge/-2595%E3%83%BBPickByType-d9901a" alt="2595・PickByType"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/44" target="_blank"><img src="https://img.shields.io/badge/-2852%E3%83%BBOmitByType-d9901a" alt="2852・OmitByType"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/45" target="_blank"><img src="https://img.shields.io/badge/-29785%E3%83%BBDeep%20Omit-d9901a" alt="29785・Deep Omit"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/46" target="_blank"><img src="https://img.shields.io/badge/-28333%E3%83%BBPublic%20Type-d9901a" alt="28333・Public Type"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/47" target="_blank"><img src="https://img.shields.io/badge/-2688%E3%83%BBStartsWith-d9901a" alt="2688・StartsWith"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/48" target="_blank"><img src="https://img.shields.io/badge/-2693%E3%83%BBEndsWith-d9901a" alt="2693・EndsWith"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/49" target="_blank"><img src="https://img.shields.io/badge/-2757%E3%83%BBPartialByKeys-d9901a" alt="2757・PartialByKeys"/></a>
 
 
 ## Yet
@@ -77,9 +82,6 @@
  <a href="../questions/01978-medium-percentage-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-1978%E3%83%BBPercentage%20Parser-d9901a" alt="1978・Percentage Parser"/></a>
  <a href="../questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
  <a href="../questions/02257-medium-minusone/README.md" target="_blank"><img src="https://img.shields.io/badge/-2257%E3%83%BBMinusOne-d9901a" alt="2257・MinusOne"/></a>
- <a href="../questions/02688-medium-startswith/README.md" target="_blank"><img src="https://img.shields.io/badge/-2688%E3%83%BBStartsWith-d9901a" alt="2688・StartsWith"/></a>
- <a href="../questions/02693-medium-endswith/README.md" target="_blank"><img src="https://img.shields.io/badge/-2693%E3%83%BBEndsWith-d9901a" alt="2693・EndsWith"/></a>
- <a href="../questions/02757-medium-partialbykeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2757%E3%83%BBPartialByKeys-d9901a" alt="2757・PartialByKeys"/></a>
  <a href="../questions/02759-medium-requiredbykeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2759%E3%83%BBRequiredByKeys-d9901a" alt="2759・RequiredByKeys"/></a>
  <a href="../questions/02793-medium-mutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-2793%E3%83%BBMutable-d9901a" alt="2793・Mutable"/></a>
  <a href="../questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
@@ -122,9 +124,7 @@
  <a href="../questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a>
  <a href="../questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
  <a href="../questions/27958-medium-checkrepeatedtuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-27958%E3%83%BBCheckRepeatedTuple-d9901a" alt="27958・CheckRepeatedTuple"/></a>
- <a href="../questions/28333-medium-public-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-28333%E3%83%BBPublic%20Type-d9901a" alt="28333・Public Type"/></a>
  <a href="../questions/29650-medium-extracttoobject/README.md" target="_blank"><img src="https://img.shields.io/badge/-29650%E3%83%BBExtractToObject-d9901a" alt="29650・ExtractToObject"/></a>
- <a href="../questions/29785-medium-deep-omit/README.md" target="_blank"><img src="https://img.shields.io/badge/-29785%E3%83%BBDeep%20Omit-d9901a" alt="29785・Deep Omit"/></a>
  <a href="../questions/30301-medium-isodd/README.md" target="_blank"><img src="https://img.shields.io/badge/-30301%E3%83%BBIsOdd-d9901a" alt="30301・IsOdd"/></a>
  <a href="../questions/30430-medium-tower-of-hanoi/README.md" target="_blank"><img src="https://img.shields.io/badge/-30430%E3%83%BBTower%20of%20hanoi-d9901a" alt="30430・Tower of hanoi"/></a>
  <a href="../questions/30958-medium-pascals-triangle/README.md" target="_blank"><img src="https://img.shields.io/badge/-30958%E3%83%BBPascal's%20triangle-d9901a" alt="30958・Pascal's triangle"/></a>
