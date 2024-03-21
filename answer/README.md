@@ -59,6 +59,8 @@
  <a href="https://github.com/rimo030/type-challenges/issues/47" target="_blank"><img src="https://img.shields.io/badge/-2688%E3%83%BBStartsWith-d9901a" alt="2688・StartsWith"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/48" target="_blank"><img src="https://img.shields.io/badge/-2693%E3%83%BBEndsWith-d9901a" alt="2693・EndsWith"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/49" target="_blank"><img src="https://img.shields.io/badge/-2757%E3%83%BBPartialByKeys-d9901a" alt="2757・PartialByKeys"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/50" target="_blank"><img src="https://img.shields.io/badge/-949%E3%83%BBAnyOf-d9901a" alt="949・AnyOf"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/51" target="_blank"><img src="https://img.shields.io/badge/-2759%E3%83%BBRequiredByKeys-d9901a" alt="2759・RequiredByKeys"/></a>
 
 
 ## Yet
@@ -75,14 +77,12 @@
  <a href="../questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
  <a href="../questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
  <a href="../questions/00645-medium-diff/README.md" target="_blank"><img src="https://img.shields.io/badge/-645%E3%83%BBDiff-d9901a" alt="645・Diff"/></a>
- <a href="../questions/00949-medium-anyof/README.md" target="_blank"><img src="https://img.shields.io/badge/-949%E3%83%BBAnyOf-d9901a" alt="949・AnyOf"/></a>
  <a href="../questions/01097-medium-isunion/README.md" target="_blank"><img src="https://img.shields.io/badge/-1097%E3%83%BBIsUnion-d9901a" alt="1097・IsUnion"/></a>
  <a href="../questions/01130-medium-replacekeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-1130%E3%83%BBReplaceKeys-d9901a" alt="1130・ReplaceKeys"/></a>
  <a href="../questions/01367-medium-remove-index-signature/README.md" target="_blank"><img src="https://img.shields.io/badge/-1367%E3%83%BBRemove%20Index%20Signature-d9901a" alt="1367・Remove Index Signature"/></a>
  <a href="../questions/01978-medium-percentage-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-1978%E3%83%BBPercentage%20Parser-d9901a" alt="1978・Percentage Parser"/></a>
  <a href="../questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
  <a href="../questions/02257-medium-minusone/README.md" target="_blank"><img src="https://img.shields.io/badge/-2257%E3%83%BBMinusOne-d9901a" alt="2257・MinusOne"/></a>
- <a href="../questions/02759-medium-requiredbykeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2759%E3%83%BBRequiredByKeys-d9901a" alt="2759・RequiredByKeys"/></a>
  <a href="../questions/02793-medium-mutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-2793%E3%83%BBMutable-d9901a" alt="2793・Mutable"/></a>
  <a href="../questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
  <a href="../questions/03188-medium-tuple-to-nested-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-3188%E3%83%BBTuple%20to%20Nested%20Object-d9901a" alt="3188・Tuple to Nested Object"/></a>
