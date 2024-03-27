@@ -73,6 +73,9 @@
  <a href="https://github.com/rimo030/type-challenges/issues/61" target="_blank"><img src="https://img.shields.io/badge/-89%E3%83%BBRequired%20Keys-de3d37" alt="89・Required Keys"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/62" target="_blank"><img src="https://img.shields.io/badge/-90%E3%83%BBOptional%20Keys-de3d37" alt="90・Optional Keys"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/63" target="_blank"><img src="https://img.shields.io/badge/-5%E3%83%BBGet%20Readonly%20Keys-b11b8d" alt="5・Get Readonly Keys"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/64" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/65" target="_blank"><img src="https://img.shields.io/badge/-2059%E3%83%BBDrop%20String-de3d37" alt="2059・Drop String"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/66" target="_blank"><img src="https://img.shields.io/badge/-2822%E3%83%BBSplit-de3d37" alt="2822・Split"/></a>
 
 
 ## Yet
@@ -93,7 +96,6 @@
  <a href="../questions/01130-medium-replacekeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-1130%E3%83%BBReplaceKeys-d9901a" alt="1130・ReplaceKeys"/></a>
  <a href="../questions/01367-medium-remove-index-signature/README.md" target="_blank"><img src="https://img.shields.io/badge/-1367%E3%83%BBRemove%20Index%20Signature-d9901a" alt="1367・Remove Index Signature"/></a>
  <a href="../questions/01978-medium-percentage-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-1978%E3%83%BBPercentage%20Parser-d9901a" alt="1978・Percentage Parser"/></a>
- <a href="../questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
  <a href="../questions/02257-medium-minusone/README.md" target="_blank"><img src="https://img.shields.io/badge/-2257%E3%83%BBMinusOne-d9901a" alt="2257・MinusOne"/></a>
  <a href="../questions/02793-medium-mutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-2793%E3%83%BBMutable-d9901a" alt="2793・Mutable"/></a>
  <a href="../questions/02946-medium-objectentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2946%E3%83%BBObjectEntries-d9901a" alt="2946・ObjectEntries"/></a>
@@ -162,8 +164,6 @@
  <a href="../questions/00956-hard-deeppick/README.md" target="_blank"><img src="https://img.shields.io/badge/-956%E3%83%BBDeepPick-de3d37" alt="956・DeepPick"/></a>
  <a href="../questions/01290-hard-pinia/README.md" target="_blank"><img src="https://img.shields.io/badge/-1290%E3%83%BBPinia-de3d37" alt="1290・Pinia"/></a>
  <a href="../questions/01383-hard-camelize/README.md" target="_blank"><img src="https://img.shields.io/badge/-1383%E3%83%BBCamelize-de3d37" alt="1383・Camelize"/></a>
- <a href="../questions/02059-hard-drop-string/README.md" target="_blank"><img src="https://img.shields.io/badge/-2059%E3%83%BBDrop%20String-de3d37" alt="2059・Drop String"/></a>
- <a href="../questions/02822-hard-split/README.md" target="_blank"><img src="https://img.shields.io/badge/-2822%E3%83%BBSplit-de3d37" alt="2822・Split"/></a>
  <a href="../questions/02828-hard-classpublickeys/README.md" target="_blank"><img src="https://img.shields.io/badge/-2828%E3%83%BBClassPublicKeys-de3d37" alt="2828・ClassPublicKeys"/></a>
  <a href="../questions/02857-hard-isrequiredkey/README.md" target="_blank"><img src="https://img.shields.io/badge/-2857%E3%83%BBIsRequiredKey-de3d37" alt="2857・IsRequiredKey"/></a>
  <a href="../questions/02949-hard-objectfromentries/README.md" target="_blank"><img src="https://img.shields.io/badge/-2949%E3%83%BBObjectFromEntries-de3d37" alt="2949・ObjectFromEntries"/></a>
