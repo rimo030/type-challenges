@@ -8,7 +8,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-57-blue" alt="solved"/><br>
+<img src="https://img.shields.io/badge/Solved-70-blue" alt="solved"/><br>
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -76,6 +76,10 @@
  <a href="https://github.com/rimo030/type-challenges/issues/64" target="_blank"><img src="https://img.shields.io/badge/-2070%E3%83%BBDrop%20Char-d9901a" alt="2070・Drop Char"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/65" target="_blank"><img src="https://img.shields.io/badge/-2059%E3%83%BBDrop%20String-de3d37" alt="2059・Drop String"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/66" target="_blank"><img src="https://img.shields.io/badge/-2822%E3%83%BBSplit-de3d37" alt="2822・Split"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/67" target="_blank"><img src="https://img.shields.io/badge/-300%E3%83%BBString%20to%20Number-de3d37" alt="300・String to Number"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/68" target="_blank"><img src="https://img.shields.io/badge/-270%E3%83%BBTyped%20Get-de3d37" alt="270・Typed Get"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/69" target="_blank"><img src="https://img.shields.io/badge/-399%E3%83%BBTuple%20Filter-de3d37" alt="399・Tuple Filter"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/70" target="_blank"><img src="https://img.shields.io/badge/-147%E3%83%BBC--printf%20Parser-de3d37" alt="147・C-printf Parser"/></a>
 
 
 ## Yet
@@ -151,11 +155,7 @@
  <a href="../questions/00055-hard-union-to-intersection/README.md" target="_blank"><img src="https://img.shields.io/badge/-55%E3%83%BBUnion%20to%20Intersection-de3d37" alt="55・Union to Intersection"/></a>
  <a href="../questions/00112-hard-capitalizewords/README.md" target="_blank"><img src="https://img.shields.io/badge/-112%E3%83%BBCapitalize%20Words-de3d37" alt="112・Capitalize Words"/></a>
  <a href="../questions/00114-hard-camelcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-114%E3%83%BBCamelCase-de3d37" alt="114・CamelCase"/></a>
- <a href="../questions/00147-hard-c-printf-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-147%E3%83%BBC--printf%20Parser-de3d37" alt="147・C-printf Parser"/></a>
  <a href="../questions/00213-hard-vue-basic-props/README.md" target="_blank"><img src="https://img.shields.io/badge/-213%E3%83%BBVue%20Basic%20Props-de3d37" alt="213・Vue Basic Props"/></a>
- <a href="../questions/00270-hard-typed-get/README.md" target="_blank"><img src="https://img.shields.io/badge/-270%E3%83%BBTyped%20Get-de3d37" alt="270・Typed Get"/></a>
- <a href="../questions/00300-hard-string-to-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-300%E3%83%BBString%20to%20Number-de3d37" alt="300・String to Number"/></a>
- <a href="../questions/00399-hard-tuple-filter/README.md" target="_blank"><img src="https://img.shields.io/badge/-399%E3%83%BBTuple%20Filter-de3d37" alt="399・Tuple Filter"/></a>
  <a href="../questions/00472-hard-tuple-to-enum-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-472%E3%83%BBTuple%20to%20Enum%20Object-de3d37" alt="472・Tuple to Enum Object"/></a>
  <a href="../questions/00545-hard-printf/README.md" target="_blank"><img src="https://img.shields.io/badge/-545%E3%83%BBprintf-de3d37" alt="545・printf"/></a>
  <a href="../questions/00553-hard-deep-object-to-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-553%E3%83%BBDeep%20object%20to%20unique-de3d37" alt="553・Deep object to unique"/></a>
