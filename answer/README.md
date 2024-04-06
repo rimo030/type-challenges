@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Solved-91-blue" alt="solved"/><br> 
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
-<a href="[../questions/00004-easy-pick/README.md](https://github.com/rimo030/type-challenges/issues/2)" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
+<a href="https://github.com/rimo030/type-challenges/issues/2" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/3" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/4" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
 <a href="https://github.com/rimo030/type-challenges/issues/5" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20to%20Object-7aad0c" alt="11・Tuple to Object"/></a>
