@@ -8,7 +8,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-91-blue" alt="solved"/><br> 
+<img src="https://img.shields.io/badge/Solved-96-blue" alt="solved"/><br> 
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="https://github.com/rimo030/type-challenges/issues/2" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -101,6 +101,11 @@
  <a href="https://github.com/rimo030/type-challenges/issues/90" target="_blank"><img src="https://img.shields.io/badge/-1367%E3%83%BBRemove%20Index%20Signature-d9901a" alt="1367・Remove Index Signature"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/91" target="_blank"><img src="https://img.shields.io/badge/-4484%E3%83%BBIsTuple-d9901a" alt="4484・IsTuple"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/92" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/93" target="_blank"><img src="https://img.shields.io/badge/-27958%E3%83%BBCheckRepeatedTuple-d9901a" alt="27958・CheckRepeatedTuple"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/94" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/95" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/96" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/97" target="_blank"><img src="https://img.shields.io/badge/-29650%E3%83%BBExtractToObject-d9901a" alt="29650・ExtractToObject"/></a>
  
 
 
@@ -117,8 +122,6 @@
  <a href="../questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
  <a href="../questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
  <a href="../questions/00296-medium-permutation/README.md" target="_blank"><img src="https://img.shields.io/badge/-296%E3%83%BBPermutation-d9901a" alt="296・Permutation"/></a>
- <a href="../questions/00527-medium-append-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-527%E3%83%BBAppend%20to%20object-d9901a" alt="527・Append to object"/></a>
- <a href="../questions/00529-medium-absolute/README.md" target="_blank"><img src="https://img.shields.io/badge/-529%E3%83%BBAbsolute-d9901a" alt="529・Absolute"/></a>
  <a href="../questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
  <a href="../questions/00645-medium-diff/README.md" target="_blank"><img src="https://img.shields.io/badge/-645%E3%83%BBDiff-d9901a" alt="645・Diff"/></a>
  <a href="../questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
@@ -127,7 +130,6 @@
  <a href="../questions/04182-medium-fibonacci-sequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
  <a href="../questions/04260-medium-nomiwase/README.md" target="_blank"><img src="https://img.shields.io/badge/-4260%E3%83%BBAllCombinations-d9901a" alt="4260・AllCombinations"/></a>
  <a href="../questions/04471-medium-zip/README.md" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a>
- <a href="../questions/04499-medium-chunk/README.md" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
  <a href="../questions/05140-medium-trunc/README.md" target="_blank"><img src="https://img.shields.io/badge/-5140%E3%83%BBTrunc-d9901a" alt="5140・Trunc"/></a>
  <a href="../questions/07544-medium-construct-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
  <a href="../questions/08767-medium-combination/README.md" target="_blank"><img src="https://img.shields.io/badge/-8767%E3%83%BBCombination-d9901a" alt="8767・Combination"/></a>
@@ -145,8 +147,6 @@
  <a href="../questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a>
  <a href="../questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a>
  <a href="../questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
- <a href="../questions/27958-medium-checkrepeatedtuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-27958%E3%83%BBCheckRepeatedTuple-d9901a" alt="27958・CheckRepeatedTuple"/></a>
- <a href="../questions/29650-medium-extracttoobject/README.md" target="_blank"><img src="https://img.shields.io/badge/-29650%E3%83%BBExtractToObject-d9901a" alt="29650・ExtractToObject"/></a>
  <a href="../questions/30430-medium-tower-of-hanoi/README.md" target="_blank"><img src="https://img.shields.io/badge/-30430%E3%83%BBTower%20of%20hanoi-d9901a" alt="30430・Tower of hanoi"/></a>
  <a href="../questions/30958-medium-pascals-triangle/README.md" target="_blank"><img src="https://img.shields.io/badge/-30958%E3%83%BBPascal's%20triangle-d9901a" alt="30958・Pascal's triangle"/></a>
  <a href="../questions/30970-medium-shitariteraru/README.md" target="_blank"><img src="https://img.shields.io/badge/-30970%E3%83%BBIsFixedStringLiteralType-d9901a" alt="30970・IsFixedStringLiteralType"/></a>
