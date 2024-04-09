@@ -1,3 +1,6 @@
+# Type Challenges
+[타입 챌린지란?](./README.en.md)
+
 # Answer
 풀이한 내용을 [이슈](https://github.com/rimo030/type-challenges/issues)로 기록하고 있습니다! ✌️
 
