@@ -212,5 +212,3 @@
  <a href="./questions/06228-extreme-json-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-6228%E3%83%BBJSON%20Parser-b11b8d" alt="6228・JSON Parser"/></a>
  <a href="./questions/07561-extreme-subtract/README.md" target="_blank"><img src="https://img.shields.io/badge/-7561%E3%83%BBSubtract-b11b8d" alt="7561・Subtract"/></a>
  <a href="./questions/31447-extreme-countreversepairs/README.md" target="_blank"><img src="https://img.shields.io/badge/-31447%E3%83%BBCountReversePairs-b11b8d" alt="31447・CountReversePairs"/></a>
-
-
