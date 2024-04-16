@@ -11,7 +11,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-108-blue" alt="solved"/><br> 
+<img src="https://img.shields.io/badge/Solved-113-blue" alt="solved"/><br> 
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="https://github.com/rimo030/type-challenges/issues/2" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -121,6 +121,11 @@
  <a href="https://github.com/rimo030/type-challenges/issues/108" target="_blank"><img src="https://img.shields.io/badge/-4179%E3%83%BBFlip-d9901a" alt="4179・Flip"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/109" target="_blank"><img src="https://img.shields.io/badge/-32427%E3%83%BBUnbox-de3d37" alt="32427・Unbox"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/110" target="_blank"><img src="https://img.shields.io/badge/-8767%E3%83%BBCombination-d9901a" alt="8767・Combination"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/111" target="_blank"><img src="https://img.shields.io/badge/-4260%E3%83%BBAllCombinations-d9901a" alt="4260・AllCombinations"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/112" target="_blank"><img src="https://img.shields.io/badge/-21106%E3%83%BBCombination%20key%20type-d9901a" alt="21106・Combination key type"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/113" target="_blank"><img src="https://img.shields.io/badge/-17%E3%83%BBCurrying%201-de3d37" alt="17・Currying 1"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/114" target="_blank"><img src="https://img.shields.io/badge/-216%E3%83%BBSlice-b11b8d" alt="216・Slice"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/115" target="_blank"><img src="https://img.shields.io/badge/-16259%E3%83%BBToPrimitive-d9901a" alt="16259・ToPrimitive"/></a>
 
 
 ## ⭐ Yet 
@@ -136,14 +141,11 @@
  <a href="./questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
  <a href="./questions/03376-medium-inordertraversal/README.md" target="_blank"><img src="https://img.shields.io/badge/-3376%E3%83%BBInorderTraversal-d9901a" alt="3376・InorderTraversal"/></a>
  <a href="./questions/04182-medium-fibonacci-sequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
- <a href="./questions/04260-medium-nomiwase/README.md" target="_blank"><img src="https://img.shields.io/badge/-4260%E3%83%BBAllCombinations-d9901a" alt="4260・AllCombinations"/></a>
  <a href="./questions/04471-medium-zip/README.md" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a>
  <a href="./questions/07544-medium-construct-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
  <a href="./questions/08987-medium-subsequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-8987%E3%83%BBSubsequence-d9901a" alt="8987・Subsequence"/></a>
  <a href="./questions/09898-medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su/README.md" target="_blank"><img src="https://img.shields.io/badge/-9898%E3%83%BBAppear%20only%20once-d9901a" alt="9898・Appear only once"/></a>
- <a href="./questions/16259-medium-to-primitive/README.md" target="_blank"><img src="https://img.shields.io/badge/-16259%E3%83%BBToPrimitive-d9901a" alt="16259・ToPrimitive"/></a>
  <a href="./questions/17973-medium-deepmutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a>
- <a href="./questions/21106-medium-zu-he-jian-lei-xing-combination-key-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-21106%E3%83%BBCombination%20key%20type-d9901a" alt="21106・Combination key type"/></a>
  <a href="./questions/21220-medium-permutations-of-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-21220%E3%83%BBPermutations%20of%20Tuple-d9901a" alt="21220・Permutations of Tuple"/></a>
  <a href="./questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a>
  <a href="./questions/26401-medium-json-schema-to-typescript/README.md" target="_blank"><img src="https://img.shields.io/badge/-26401%E3%83%BBJSON%20Schema%20to%20TypeScript-d9901a" alt="26401・JSON Schema to TypeScript"/></a>
@@ -163,7 +165,6 @@
  
  
  <a href="./questions/00006-hard-simple-vue/README.md" target="_blank"><img src="https://img.shields.io/badge/-6%E3%83%BBSimple%20Vue-de3d37" alt="6・Simple Vue"/></a>
- <a href="./questions/00017-hard-currying-1/README.md" target="_blank"><img src="https://img.shields.io/badge/-17%E3%83%BBCurrying%201-de3d37" alt="17・Currying 1"/></a>
  <a href="./questions/00055-hard-union-to-intersection/README.md" target="_blank"><img src="https://img.shields.io/badge/-55%E3%83%BBUnion%20to%20Intersection-de3d37" alt="55・Union to Intersection"/></a>
  <a href="./questions/00112-hard-capitalizewords/README.md" target="_blank"><img src="https://img.shields.io/badge/-112%E3%83%BBCapitalize%20Words-de3d37" alt="112・Capitalize Words"/></a>
  <a href="./questions/00114-hard-camelcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-114%E3%83%BBCamelCase-de3d37" alt="114・CamelCase"/></a>
@@ -199,7 +200,6 @@
  
  
  <a href="./questions/00151-extreme-query-string-parser/README.md" target="_blank"><img src="https://img.shields.io/badge/-151%E3%83%BBQuery%20String%20Parser-b11b8d" alt="151・Query String Parser"/></a>
- <a href="./questions/00216-extreme-slice/README.md" target="_blank"><img src="https://img.shields.io/badge/-216%E3%83%BBSlice-b11b8d" alt="216・Slice"/></a>
  <a href="./questions/00274-extreme-integers-comparator/README.md" target="_blank"><img src="https://img.shields.io/badge/-274%E3%83%BBIntegers%20Comparator-b11b8d" alt="274・Integers Comparator"/></a>
  <a href="./questions/00462-extreme-currying-2/README.md" target="_blank"><img src="https://img.shields.io/badge/-462%E3%83%BBCurrying%202-b11b8d" alt="462・Currying 2"/></a>
  <a href="./questions/00476-extreme-sum/README.md" target="_blank"><img src="https://img.shields.io/badge/-476%E3%83%BBSum-b11b8d" alt="476・Sum"/></a>
