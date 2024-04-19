@@ -126,6 +126,11 @@
  <a href="https://github.com/rimo030/type-challenges/issues/113" target="_blank"><img src="https://img.shields.io/badge/-17%E3%83%BBCurrying%201-de3d37" alt="17・Currying 1"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/114" target="_blank"><img src="https://img.shields.io/badge/-216%E3%83%BBSlice-b11b8d" alt="216・Slice"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/115" target="_blank"><img src="https://img.shields.io/badge/-16259%E3%83%BBToPrimitive-d9901a" alt="16259・ToPrimitive"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/116" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/117" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/118" target="_blank"><img src="https://img.shields.io/badge/-112%E3%83%BBCapitalize%20Words-de3d37" alt="112・Capitalize Words"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/119" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/120" target="_blank"><img src="https://img.shields.io/badge/-114%E3%83%BBCamelCase-de3d37" alt="114・CamelCase"/></a>
 
 
 ## ⭐ Yet 
@@ -133,12 +138,9 @@
 
  <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/><br>
  
- <a href="./questions/00012-medium-chainable-options/README.md" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
  <a href="./questions/00020-medium-promise-all/README.md" target="_blank"><img src="https://img.shields.io/badge/-20%E3%83%BBPromise.all-d9901a" alt="20・Promise.all"/></a>
  <a href="./questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
  <a href="./questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
- <a href="./questions/00612-medium-kebabcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-612%E3%83%BBKebabCase-d9901a" alt="612・KebabCase"/></a>
- <a href="./questions/03196-medium-flip-arguments/README.md" target="_blank"><img src="https://img.shields.io/badge/-3196%E3%83%BBFlip%20Arguments-d9901a" alt="3196・Flip Arguments"/></a>
  <a href="./questions/03376-medium-inordertraversal/README.md" target="_blank"><img src="https://img.shields.io/badge/-3376%E3%83%BBInorderTraversal-d9901a" alt="3376・InorderTraversal"/></a>
  <a href="./questions/04182-medium-fibonacci-sequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
  <a href="./questions/04471-medium-zip/README.md" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a>
@@ -166,8 +168,6 @@
  
  <a href="./questions/00006-hard-simple-vue/README.md" target="_blank"><img src="https://img.shields.io/badge/-6%E3%83%BBSimple%20Vue-de3d37" alt="6・Simple Vue"/></a>
  <a href="./questions/00055-hard-union-to-intersection/README.md" target="_blank"><img src="https://img.shields.io/badge/-55%E3%83%BBUnion%20to%20Intersection-de3d37" alt="55・Union to Intersection"/></a>
- <a href="./questions/00112-hard-capitalizewords/README.md" target="_blank"><img src="https://img.shields.io/badge/-112%E3%83%BBCapitalize%20Words-de3d37" alt="112・Capitalize Words"/></a>
- <a href="./questions/00114-hard-camelcase/README.md" target="_blank"><img src="https://img.shields.io/badge/-114%E3%83%BBCamelCase-de3d37" alt="114・CamelCase"/></a>
  <a href="./questions/00213-hard-vue-basic-props/README.md" target="_blank"><img src="https://img.shields.io/badge/-213%E3%83%BBVue%20Basic%20Props-de3d37" alt="213・Vue Basic Props"/></a>
  <a href="./questions/00472-hard-tuple-to-enum-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-472%E3%83%BBTuple%20to%20Enum%20Object-de3d37" alt="472・Tuple to Enum Object"/></a>
  <a href="./questions/00553-hard-deep-object-to-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-553%E3%83%BBDeep%20object%20to%20unique-de3d37" alt="553・Deep object to unique"/></a>
