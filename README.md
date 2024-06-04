@@ -11,7 +11,7 @@
 - 뱃지를 누르면 풀이 이슈로 이동합니다.<br>
 
 
-<img src="https://img.shields.io/badge/Solved-124-violet" alt="solved"/><br> 
+<img src="https://img.shields.io/badge/Solved-133-violet" alt="solved"/><br> 
 
 <a href="https://github.com/rimo030/type-challenges/issues/1" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a> 
 <a href="https://github.com/rimo030/type-challenges/issues/2" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
@@ -137,6 +137,15 @@
  <a href="https://github.com/rimo030/type-challenges/issues/124" target="_blank"><img src="https://img.shields.io/badge/-9898%E3%83%BBAppear%20only%20once-d9901a" alt="9898・Appear only once"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/125" target="_blank"><img src="https://img.shields.io/badge/-151%E3%83%BBQuery%20String%20Parser-b11b8d" alt="151・Query String Parser"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/126" target="_blank"><img src="https://img.shields.io/badge/-9775%E3%83%BBCapitalize%20Nest%20Object%20Keys-de3d37" alt="9775・Capitalize Nest Object Keys"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/127" target="_blank"><img src="https://img.shields.io/badge/-7258%E3%83%BBObject%20Key%20Paths-de3d37" alt="7258・Object Key Paths"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/128" target="_blank"><img src="https://img.shields.io/badge/-472%E3%83%BBTuple%20to%20Enum%20Object-de3d37" alt="472・Tuple to Enum Object"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/129" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/130" target="_blank"><img src="https://img.shields.io/badge/-3376%E3%83%BBInorderTraversal-d9901a" alt="3376・InorderTraversal"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/131" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/132" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/133" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/134" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/135" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a>
 
 
 ## ⭐ Yet 
@@ -144,20 +153,13 @@
 
  <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/><br>
  
- <a href="./questions/00110-medium-capitalize/README.md" target="_blank"><img src="https://img.shields.io/badge/-110%E3%83%BBCapitalize-d9901a" alt="110・Capitalize"/></a>
- <a href="./questions/00191-medium-append-argument/README.md" target="_blank"><img src="https://img.shields.io/badge/-191%E3%83%BBAppend%20Argument-d9901a" alt="191・Append Argument"/></a>
- <a href="./questions/03376-medium-inordertraversal/README.md" target="_blank"><img src="https://img.shields.io/badge/-3376%E3%83%BBInorderTraversal-d9901a" alt="3376・InorderTraversal"/></a>
  <a href="./questions/04182-medium-fibonacci-sequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
- <a href="./questions/04471-medium-zip/README.md" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a>
- <a href="./questions/07544-medium-construct-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
  <a href="./questions/08987-medium-subsequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-8987%E3%83%BBSubsequence-d9901a" alt="8987・Subsequence"/></a>
- <a href="./questions/17973-medium-deepmutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a>
  <a href="./questions/21220-medium-permutations-of-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-21220%E3%83%BBPermutations%20of%20Tuple-d9901a" alt="21220・Permutations of Tuple"/></a>
  <a href="./questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a>
  <a href="./questions/26401-medium-json-schema-to-typescript/README.md" target="_blank"><img src="https://img.shields.io/badge/-26401%E3%83%BBJSON%20Schema%20to%20TypeScript-d9901a" alt="26401・JSON Schema to TypeScript"/></a>
  <a href="./questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a>
  <a href="./questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a>
- <a href="./questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
  <a href="./questions/30430-medium-tower-of-hanoi/README.md" target="_blank"><img src="https://img.shields.io/badge/-30430%E3%83%BBTower%20of%20hanoi-d9901a" alt="30430・Tower of hanoi"/></a>
  <a href="./questions/30958-medium-pascals-triangle/README.md" target="_blank"><img src="https://img.shields.io/badge/-30958%E3%83%BBPascal's%20triangle-d9901a" alt="30958・Pascal's triangle"/></a>
  <a href="./questions/30970-medium-shitariteraru/README.md" target="_blank"><img src="https://img.shields.io/badge/-30970%E3%83%BBIsFixedStringLiteralType-d9901a" alt="30970・IsFixedStringLiteralType"/></a>
@@ -172,7 +174,6 @@
  
  <a href="./questions/00006-hard-simple-vue/README.md" target="_blank"><img src="https://img.shields.io/badge/-6%E3%83%BBSimple%20Vue-de3d37" alt="6・Simple Vue"/></a>
  <a href="./questions/00213-hard-vue-basic-props/README.md" target="_blank"><img src="https://img.shields.io/badge/-213%E3%83%BBVue%20Basic%20Props-de3d37" alt="213・Vue Basic Props"/></a>
- <a href="./questions/00472-hard-tuple-to-enum-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-472%E3%83%BBTuple%20to%20Enum%20Object-de3d37" alt="472・Tuple to Enum Object"/></a>
  <a href="./questions/00553-hard-deep-object-to-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-553%E3%83%BBDeep%20object%20to%20unique-de3d37" alt="553・Deep object to unique"/></a>
  <a href="./questions/00730-hard-union-to-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-730%E3%83%BBUnion%20to%20Tuple-de3d37" alt="730・Union to Tuple"/></a>
  <a href="./questions/01290-hard-pinia/README.md" target="_blank"><img src="https://img.shields.io/badge/-1290%E3%83%BBPinia-de3d37" alt="1290・Pinia"/></a>
@@ -181,7 +182,6 @@
  <a href="./questions/04037-hard-ispalindrome/README.md" target="_blank"><img src="https://img.shields.io/badge/-4037%E3%83%BBIsPalindrome-de3d37" alt="4037・IsPalindrome"/></a>
  <a href="./questions/05423-hard-intersection/README.md" target="_blank"><img src="https://img.shields.io/badge/-5423%E3%83%BBIntersection-de3d37" alt="5423・Intersection"/></a>
  <a href="./questions/06141-hard-binary-to-decimal/README.md" target="_blank"><img src="https://img.shields.io/badge/-6141%E3%83%BBBinary%20to%20Decimal-de3d37" alt="6141・Binary to Decimal"/></a>
- <a href="./questions/07258-hard-object-key-paths/README.md" target="_blank"><img src="https://img.shields.io/badge/-7258%E3%83%BBObject%20Key%20Paths-de3d37" alt="7258・Object Key Paths"/></a>
  <a href="./questions/08804-hard-two-sum/README.md" target="_blank"><img src="https://img.shields.io/badge/-8804%E3%83%BBTwo%20Sum-de3d37" alt="8804・Two Sum"/></a>
  <a href="./questions/09155-hard-validdate/README.md" target="_blank"><img src="https://img.shields.io/badge/-9155%E3%83%BBValidDate-de3d37" alt="9155・ValidDate"/></a>
  <a href="./questions/09160-hard-assign/README.md" target="_blank"><img src="https://img.shields.io/badge/-9160%E3%83%BBAssign-de3d37" alt="9160・Assign"/></a>
