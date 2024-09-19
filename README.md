@@ -146,14 +146,18 @@
  <a href="https://github.com/rimo030/type-challenges/issues/133" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/134" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
  <a href="https://github.com/rimo030/type-challenges/issues/135" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/136" target="_blank"><img src="https://img.shields.io/badge/-517%E3%83%BBMultiply-b11b8d" alt="517・Multiply"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/137" target="_blank"><img src="https://img.shields.io/badge/-476%E3%83%BBSum-b11b8d" alt="476・Sum"/></a>
+ <a href="https://github.com/rimo030/type-challenges/issues/138" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
+  <a href="https://github.com/rimo030/type-challenges/issues/139" target="_blank"><img src="https://img.shields.io/badge/-274%E3%83%BBIntegers%20Comparator-b11b8d" alt="274・Integers Comparator"/></a>
 
+ 
 
 ## ⭐ Yet 
 - 뱃지를 누르면 문제로 이동합니다.
 
  <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/><br>
  
- <a href="./questions/04182-medium-fibonacci-sequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-4182%E3%83%BBFibonacci%20Sequence-d9901a" alt="4182・Fibonacci Sequence"/></a>
  <a href="./questions/08987-medium-subsequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-8987%E3%83%BBSubsequence-d9901a" alt="8987・Subsequence"/></a>
  <a href="./questions/21220-medium-permutations-of-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-21220%E3%83%BBPermutations%20of%20Tuple-d9901a" alt="21220・Permutations of Tuple"/></a>
  <a href="./questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a>
@@ -199,11 +203,8 @@
  
  <img src="https://img.shields.io/badge/extreme-15-b11b8d" alt="15"/><br>
  
- 
- <a href="./questions/00274-extreme-integers-comparator/README.md" target="_blank"><img src="https://img.shields.io/badge/-274%E3%83%BBIntegers%20Comparator-b11b8d" alt="274・Integers Comparator"/></a>
+
  <a href="./questions/00462-extreme-currying-2/README.md" target="_blank"><img src="https://img.shields.io/badge/-462%E3%83%BBCurrying%202-b11b8d" alt="462・Currying 2"/></a>
- <a href="./questions/00476-extreme-sum/README.md" target="_blank"><img src="https://img.shields.io/badge/-476%E3%83%BBSum-b11b8d" alt="476・Sum"/></a>
- <a href="./questions/00517-extreme-multiply/README.md" target="_blank"><img src="https://img.shields.io/badge/-517%E3%83%BBMultiply-b11b8d" alt="517・Multiply"/></a>
  <a href="./questions/00697-extreme-tag/README.md" target="_blank"><img src="https://img.shields.io/badge/-697%E3%83%BBTag-b11b8d" alt="697・Tag"/></a>
  <a href="./questions/00734-extreme-inclusive-range/README.md" target="_blank"><img src="https://img.shields.io/badge/-734%E3%83%BBInclusive%20Range-b11b8d" alt="734・Inclusive Range"/></a>
  <a href="./questions/00741-extreme-sort/README.md" target="_blank"><img src="https://img.shields.io/badge/-741%E3%83%BBSort-b11b8d" alt="741・Sort"/></a>
